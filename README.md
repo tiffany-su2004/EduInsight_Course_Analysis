@@ -9,8 +9,6 @@ It provides **students**, **instructors**, and **administrators** with real-time
 - **Frontend:** React (Vite), Material UI (MUI), Recharts  
 - **Backend:** Node.js, Express.js, PostgreSQL  
 - **Analytics Logic:** JavaScript-based linear regression for predictive trend analysis  
-- **Deployment:** Firebase Hosting (Frontend), Render / Railway (Backend)
-
 ---
 
 ## 🧩 Key Features
